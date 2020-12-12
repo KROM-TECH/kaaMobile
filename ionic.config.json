@@ -1,0 +1,7 @@
+{
+  "name": "studeemobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
